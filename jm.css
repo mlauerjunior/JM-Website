@@ -1,0 +1,95 @@
+body{background-color: white;
+font-family: 'Roboto Condensed', sans-serif;
+font-size:15px;
+width:100%;
+/*padding:0px 150px;*/
+border-top:2px #5D4157;}
+
+.container{
+background-color:white;
+height:100%;
+margin:0 auto;
+}
+
+nav{
+margin-top:10px;
+height:100px;
+border-bottom: solid 2px black;
+background-position: 0 20%;
+background-repeat: no-repeat;
+}
+
+.Jordan{
+font-family: 'Zeyada', cursive;
+font-size:50px;
+text-transform:uppercase;
+color:#5D4157;
+float:left;
+margin:30px 100px;
+border-right:solid 2px black;
+padding-right:50px;
+text-shadow:0 3px 0 #A8CABA;
+}
+
+
+.breakdown{float:left;
+margin:30px 30px 0 30px ;
+font-size: 25px;
+}
+
+.breakdown h1{text-transform:uppercase;
+}
+
+.breakdown h2{font-variant:small-caps;
+margin:0 10px 0 40px;
+}
+
+nav img{
+width:170px;
+height:100px;}
+
+aside{margin-left:100px;}
+
+
+
+aside ol li a{float:left;
+font-size: 25px;
+text-decoration:none;
+color:#CAD7B2;
+padding:0 20px;
+}
+
+aside ol li a:hover{text-decoration:underline;
+color:#A8CABA;}
+
+.social{
+margin:10px 0;
+border-left:2px solid black;
+}
+
+.social ul{margin-right:20px;
+border-left:solid 5px black;}
+
+.social ul li:first-child{border-left:solid 2px black;}
+
+.social ul li a{float:right;
+padding:0 5px 0 10px;}
+
+.social ul li a img{height:30px;}
+
+.mainbody{border-top:2px solid black;
+margin-top:50px;
+height:90%;
+padding-top:20px;
+background-image:url('#.jpg');
+background-attachment:scroll;}
+
+.mainbody h1{margin:50px 20px 0 50px;
+color:#5D4157;
+#A8CABA;
+font-size:40px;
+text-shadow:0 3px 0 #A8CABA;
+}
+
+
+
